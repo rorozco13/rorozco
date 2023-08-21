@@ -4,29 +4,29 @@ DOCTYPEHTML>
 
 <header> 
 
-         <title> 
+<title> 
 
  It starts here 
 
- </title> 
+</title> 
 
   
 
-     <style> 
+<style> 
 
  h1{color:#20b2aa} 
 
- </style> 
+</style> 
 
  </header> 
 
 <body>     
 
-      <h1> 
+<h1> 
 
-  hello world my name is rafael 
+hello world my name is rafael 
 
-  </h1> 
+ </h1> 
   
  <h3> 
 
